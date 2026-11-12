@@ -1,0 +1,15 @@
+name: SolhavenNPC
+version: 1.0.0
+main: ru.solhaven.npc.SolhavenNPC
+api-version: '1.21'
+depend: [ProtocolLib]
+author: Solhaven
+description: Player-like protected NPCs for Paper 1.21.4
+
+commands:
+  create:
+    description: Create a Solhaven NPC
+    usage: /create NPC
+  del:
+    description: Delete the targeted Solhaven NPC
+    usage: /del NPC

@@ -1,0 +1,14 @@
+# Minecraft nickname whose official Mojang skin will be copied to every NPC.
+skin-name: "Notch"
+
+# Name displayed above the NPC. Keep it 1-16 characters.
+npc-name: "Solhaven"
+
+# How often NPCs turn their head/body toward the nearest player.
+head-update-interval-ticks: 5
+
+# Maximum distance at which a client receives the NPC.
+view-distance: 64
+
+# Maximum distance for /del NPC target detection.
+delete-target-distance: 6.0
